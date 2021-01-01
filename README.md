@@ -1,6 +1,6 @@
 # Music-Genre-Classification-Using-K-Nearest-Neighbors
 
-![Klasifikasi_Genre_Musik](https://user-images.githubusercontent.com/63969423/103441333-bbc8f900-4c7f-11eb-8273-2891d9df6ae1.JPG)
+![Klasifikasi_Genre_Musik](https://user-images.githubusercontent.com/63969423/103441355-edda5b00-4c7f-11eb-8bec-f93d11f9c198.JPG)
 
 
 
