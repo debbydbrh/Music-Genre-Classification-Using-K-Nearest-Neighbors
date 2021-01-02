@@ -9,6 +9,6 @@ Klasifikasi merupakan salah satu task dalam analisis data, dimana task ini merup
 
 Project Data Mining 2020/2021
 
-Yessi Pangaribuan (12S17018)
-Debby Debora (12S17031)
-Rommel Gultom (12S17053)
+- Yessi Pangaribuan (12S17018)
+- Debby Debora (12S17031)
+- Rommel Gultom (12S17053)
